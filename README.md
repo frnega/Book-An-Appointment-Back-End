@@ -5,7 +5,6 @@
   <h3>The Coders Hub Back-End project is a Ruby on Rails API that allows users to book an appointment for coding classes. </h3>
 </div>
 
-
 ## ERD diagram
 
 <img alt="ERD diagram" width="500" height="auto" src="./app/assets/image/schema.png">
