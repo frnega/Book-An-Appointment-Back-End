@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./app/assets/image/logo.png" alt="logo" width="300" height="auto" />
   <br/>
-  <h1>Coders Hub Back-End</h1>
+  <h1>Coders Hub Back-End </h1>
   <h3>The Coders Hub Back-End project is a Ruby on Rails API that allows users to book an appointment for coding classes. </h3>
 </div>
 
@@ -12,13 +12,9 @@
 ## About the Project
 The Coders Hub Back-End project is a Ruby on Rails API that allows users to book an appointment for coding classes. It includes user authentication and authorization using the Doorkeeper gem, which ensures that users must be authenticated before accessing protected resources.
 
-
-
-
 ## Built With
 
 #### Tech Stack
-
 
 <details>
 <summary>Client</summary>
@@ -54,7 +50,6 @@ The Coders Hub Back-End project is a Ruby on Rails API that allows users to book
 ### Getting Started
 
 To get a local copy up and running, follow these steps:
-
 ### Prerequisites
 
 To run this project, you'll need to install:
@@ -76,7 +71,6 @@ To run this project, you'll need to install:
 `bundle install`
 
 3. Set up the database:
-
 `rails db:create`
 
 `rails db:migrate`
